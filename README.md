@@ -4,11 +4,7 @@ __________
 ***Personal Information***
 __________
 
--Name:Japnoor kaur
-
--Location:jalalabad (west),dist fazilka
-
--Education:Secondary education:Panacea Senior Secondary School Jalalabad (west)
+I am Japnoor Kaur, I live in Jalalabad, Fazilka. Recently I had completed my Senior secondry education from Panacea Senior Secondry Public School, Jalalabad. currently I got admission in Guru Nank Dev Engineering College, Ludhiana. I got admitted in B.tech IT branch.
 ____________
 
 ***skills***
@@ -19,6 +15,12 @@ basic programming :
 -html
 
 -c language
+____________
 
+***Hobbies***
+____________
+-Drawing
+-Bhangra
+-Reading
 ____________
 
