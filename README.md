@@ -19,8 +19,12 @@ ____________
 
 ***Hobbies***
 ____________
+
 -Drawing
+
 -Bhangra
+
 -Reading
+
 ____________
 
