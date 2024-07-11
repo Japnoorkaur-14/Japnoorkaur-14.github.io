@@ -1,4 +1,4 @@
-***welcome to my portfolio***
+***Welcome to my Portfolio***
 __________
 
 ***Personal Information***
@@ -17,6 +17,7 @@ ____________
 basic programming :
 
 -html
+
 -c language
 
 ____________
